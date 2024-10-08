@@ -1,0 +1,8 @@
+venv/
+
+Labs/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
+
+*.log
+
+.DS_Store
+Thumbs.db
